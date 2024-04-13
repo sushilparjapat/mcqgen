@@ -1,2 +1,2 @@
-MCQ Generator using langchain 
+MCQ Generator using langchain \n
 LLm = gemini-pro
