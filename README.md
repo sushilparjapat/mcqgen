@@ -1,1 +1,2 @@
-this is my first files
+MCQ Generator using langchain 
+LLm = gemini-pro
