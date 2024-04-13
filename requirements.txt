@@ -4,5 +4,5 @@ google.generativeai
 streamlit 
 python-dotenv
 PyPDF2
-
+langchain_google_genai
 -e .

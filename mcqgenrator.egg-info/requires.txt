@@ -1,5 +1,0 @@
-google.generativeai
-langchain
-streamlit
-python-dotenv
-PyPDF2

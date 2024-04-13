@@ -1,4 +1,4 @@
 venv
 .env
-logs
+logs/
 mcqgenrator.egg-info
